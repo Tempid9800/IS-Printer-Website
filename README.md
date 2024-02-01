@@ -10,5 +10,5 @@ Web Pages Code Contained In This Repositories
 This Is My First Web Dev Project And Also This is my First Time Using GitHub <br>
 
 
-Author - Shivam Thakur
+Author - Shivam Thakur<br>
 Bsc Computing Student
